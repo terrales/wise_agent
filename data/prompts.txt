@@ -1,0 +1,8 @@
+Danny moved either the telescope or the chair, and the bag. Danny might've moved both the telescope and the chair. Is the continuation correct?
+Andrei approached Danny; Danny held a bag. Andrei held a bag. Is the continuation correct?
+Danny looked at Andrei holding a yellow chair. Danny was holding a yellow chair. Is the continuation correct?
+Andrei approached the person with a blue telescope. The person had a blue telescope. Is the continuation correct?
+Danny looked at Andrei putting down a yellow chair. Danny was putting down a yellow chair. Is the continuation correct?
+Andrei and Danny held the green chair and bag. The bag wasn't green. Is the continuation correct?
+Andrei looked at the green bag through a telescope. The green bag had a telescope. Is the continuation correct?
+Andrei left Danny; he held a telescope. Danny held a telescope. Is the continuation correct?
